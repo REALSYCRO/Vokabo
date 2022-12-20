@@ -1,6 +1,6 @@
 # Vokabo
-Python Vokabel Lerner
+Ein Python Vokabel Lerner
 
 #Noch in der Entwicklung!
 
-In Koop mit @xGurkensalat
+In Koop mit <a href="https://github.com/xGurkensalat">Gurkensalat</a>
